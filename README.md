@@ -1,0 +1,3 @@
+# IdUtils
+类似xutils和butterknife
+插件包在lib目录下,使用需要在AndroidStudio中添加IdUtils的插件,使用方法和butterknife一致
